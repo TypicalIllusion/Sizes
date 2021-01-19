@@ -8,6 +8,7 @@
 
 ## Planned Features
 * Command to set Size
+* Config Values to disable the random size for certain classes/teams
 
 ## Config
 Config  | Default Value | Description
